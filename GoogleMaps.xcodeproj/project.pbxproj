@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		12284F21237952A800C33F92 /* GMSStrokeStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 12284F20237952A800C33F92 /* GMSStrokeStyle.h */; };
+		12284FBD237BBD1B00C33F92 /* GMSStrokeStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 12284FBC237BBD1B00C33F92 /* GMSStrokeStyle.h */; };
 		15B54FA721417C7000A99A88 /* GMSPanoramaView.h in Headers */ = {isa = PBXBuildFile; fileRef = 15B54F7F21417C7000A99A88 /* GMSPanoramaView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		15B54FA821417C7000A99A88 /* GMSIndoorBuilding.h in Headers */ = {isa = PBXBuildFile; fileRef = 15B54F8021417C7000A99A88 /* GMSIndoorBuilding.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		15B54FA921417C7000A99A88 /* GMSMarker.h in Headers */ = {isa = PBXBuildFile; fileRef = 15B54F8121417C7000A99A88 /* GMSMarker.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -147,7 +147,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		12284F20237952A800C33F92 /* GMSStrokeStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMSStrokeStyle.h; sourceTree = "<group>"; };
+		12284FBC237BBD1B00C33F92 /* GMSStrokeStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMSStrokeStyle.h; sourceTree = "<group>"; };
 		15B54F7F21417C7000A99A88 /* GMSPanoramaView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMSPanoramaView.h; sourceTree = "<group>"; };
 		15B54F8021417C7000A99A88 /* GMSIndoorBuilding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMSIndoorBuilding.h; sourceTree = "<group>"; };
 		15B54F8121417C7000A99A88 /* GMSMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMSMarker.h; sourceTree = "<group>"; };
@@ -366,7 +366,7 @@
 		15B54F7E21417C7000A99A88 /* Headers */ = {
 			isa = PBXGroup;
 			children = (
-				12284F20237952A800C33F92 /* GMSStrokeStyle.h */,
+				12284FBC237BBD1B00C33F92 /* GMSStrokeStyle.h */,
 				E1933E4922497B2D00BBF8E4 /* GMSPolygonLayer.h */,
 				15B54F7F21417C7000A99A88 /* GMSPanoramaView.h */,
 				15B54F8021417C7000A99A88 /* GMSIndoorBuilding.h */,
@@ -688,7 +688,7 @@
 				15B54FA921417C7000A99A88 /* GMSMarker.h in Headers */,
 				15B54FC621417C7000A99A88 /* GMSURLTileLayer.h in Headers */,
 				15B54FBD21417C7000A99A88 /* GMSPanoramaCameraUpdate.h in Headers */,
-				12284F21237952A800C33F92 /* GMSStrokeStyle.h in Headers */,
+				12284FBD237BBD1B00C33F92 /* GMSStrokeStyle.h in Headers */,
 				15B54FB821417C7000A99A88 /* GMSIndoorLevel.h in Headers */,
 				15B54FBB21417C7000A99A88 /* GMSPanoramaSource.h in Headers */,
 				15B54FC321417C7000A99A88 /* GMSSyncTileLayer.h in Headers */,
